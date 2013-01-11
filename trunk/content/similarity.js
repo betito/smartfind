@@ -21,6 +21,7 @@
  * Contributor(s): Antonio Gomes <tonikitoo@gmail.com>
  *                 Tomaz Noleto <tnoleto@gmail.com>
  *                 André Pedralho <apedralho@gmail.com>
+ *                 Betito Oliveira <betito.oliveira@gmail.com>
  *
  * Alternatively, the contents of this file may be used under the terms of
  * either the GNU General Public License Version 2 or later (the "GPL"), or
